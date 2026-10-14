@@ -1,0 +1,5 @@
+# Exclude the compiled Go binary
+server
+
+# Exclude potential OS files
+.DS_Store
